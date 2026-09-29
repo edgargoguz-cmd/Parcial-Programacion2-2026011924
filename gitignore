@@ -1,0 +1,27 @@
+# Compilados
+*.class
+out/
+bin/
+target/
+build/
+
+# Paquetes
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+
+# Sistema
+.DS_Store
+Thumbs.db
